@@ -30,3 +30,14 @@
 *.exe
 *.out
 *.app
+
+#zip
+*.zip
+*.7zip
+*.7z
+*.rar
+
+#Directories
+LIBs/
+bin/
+obj/
